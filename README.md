@@ -24,7 +24,7 @@ removing duplicates, standardizing formats, and preparing a clean dataset for an
 ## Files in Repository
 - TASK 1.ipynb – Data cleaning notebook
 - netflix_titles.csv – Raw dataset
-- netflix_cleaned.csv – Cleaned dataset
+- netflix_cleaned.xls – Cleaned dataset
 
 ## Outcome
 A clean, structured dataset ready for analysis or modeling.
